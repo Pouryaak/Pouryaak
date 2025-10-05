@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🌏 Based in Copenhagen, relocating to Australia soon 🇦🇺  
+- 🌏 Based in Copenhagen
 - 💻 Senior Frontend Engineer with 8+ years experience across **React, Next.js, Angular, Vue**  
 - 🎨 Passionate about **design systems, accessibility, and delightful user experiences**  
 - 📚 Currently mastering **React 19, Next.js App Router, PWAs & Service Workers**  
