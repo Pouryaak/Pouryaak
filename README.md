@@ -38,7 +38,7 @@
 Token-driven UI components with SSR-friendly theming, a11y-first, and clean APIs.  
 
 🔹 **[Slimming Journal](https://github.com/Pouryaak/slimming-journal)** – Health & Habit Tracker  
-Next.js App Router, Supabase, Telegram summaries, timezone-aware UX.  
+Next.js App Router, PWA, Supabase, Telegram summaries, timezone-aware UX.  
 
 🔹 **[CalmCodeCrew Platform](https://github.com/Pouryaak/CalmCodeCrew-Platform)** – Modular Workshop Platform  
 React + TypeScript + Firebase for authentication, workshops, and certificates.  
