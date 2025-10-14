@@ -8,7 +8,7 @@
 - 💻 Senior Frontend Engineer with 8+ years experience across **React, Next.js, Angular, Vue**  
 - 🎨 Passionate about **design systems, accessibility, and delightful user experiences**  
 - 📚 Currently mastering **React 19, Next.js App Router, PWAs & Service Workers**  
-- 🛠️ Obsessed with **performance, scalability, and developer experience (DX)**  
+- 🛠️ Obsessed with **performance, scalability, and developer experience (DX)**
 
 ---
 
@@ -55,7 +55,7 @@ React + TypeScript + Firebase for authentication, workshops, and certificates.
 ---
 
 ### 📫 Connect with me
-- 🌐 Portfolio: *coming soon*  
+- 🌐 Portfolio: working on it 💻
 - 💼 [LinkedIn](https://www.linkedin.com/in/pourya-akrami-nayeri-4230ba10b/)  
 
 ---
