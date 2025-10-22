@@ -35,7 +35,7 @@
 ### 🌟 Featured Projects
 
 🔹 **[Quokka UI](https://pouryaak.github.io/quokka-ui/?path=/docs/introduction-welcome--docs)** – Design System / OSS Library  
-Token-driven UI components with SSR-friendly theming, a11y-first, and clean APIs.  
+Token-driven UI components with SSR-friendly theming, a11y-first, and clean APIs..  
 
 🔹 **[Slimming Journal](https://github.com/Pouryaak/slimming-journal)** – Health & Habit Tracker  
 Next.js App Router, PWA, Supabase, Telegram summaries, timezone-aware UX.  
