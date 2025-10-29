@@ -50,7 +50,6 @@ React + TypeScript + Firebase for authentication, workshops, and certificates.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pouryaak&show_icons=true&theme=radical" alt="stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouryaak&theme=radical" alt="streak" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouryaak&theme=radical" alt="streak" width="48%"/>
 </p>
 
 ---
