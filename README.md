@@ -29,6 +29,8 @@
 **AI & Local LLMs**
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![WebLLM](https://img.shields.io/badge/-WebLLM-000000?logo=webgpu&logoColor=white)
+![Transformers.js](https://img.shields.io/badge/-Transformers.js-FF6F00?logo=tensorflow&logoColor=white)
 
 ---
 
@@ -37,11 +39,11 @@
 🔹 [Quokka UI](https://pouryaak.github.io/quokka-ui/?path=/docs/introduction-welcome--docs) – Design System / OSS Library  
 Token-driven UI components with SSR-friendly theming, a11y-first, and clean APIs.
 
-🔹 [Lokul](https://github.com/Pouryaak/lokul) – Local-first AI Coding Assistant  
-Desktop app that runs AI coding assistants locally with Ollama. Privacy-first, no cloud required.
+🔹 [Lokul](https://github.com/Pouryaak/lokul) – Web-Based Private AI  
+Run AI models entirely in your browser using WebLLM & Transformers.js. No server, no data leaving your device. Privacy-first AI.
 
-🔹 [LokulMem](https://github.com/Pouryaak/lokulmem) – Persistent Memory for Local AI  
-Give your local LLM long-term memory. Stores context across sessions so your AI assistant remembers.
+🔹 [LokulMem](https://github.com/Pouryaak/lokulmem) – Persistent Memory for Web AI  
+A library for managing long-term memory in browser-based AI apps. Built on WebGPU. Give any web AI app the ability to remember across sessions.
 
 ---
 
@@ -51,7 +53,7 @@ Give your local LLM long-term memory. Stores context across sessions so your AI 
 Contributed bug fixes and UX improvements to the open-source AI app builder ecosystem.
 
 🔹 [Dyad](https://github.com/dyad-sh/dyad) – Local AI App Builder  
-Contributing UI improvements and bug fixes. (In progress)
+Contributing UI improvements and bug fixes.
 
 ---
 
