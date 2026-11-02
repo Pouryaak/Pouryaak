@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 475" width="100%" height="475" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 420px;
+        height: 475px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .mcs-wrap {
+        width:100%; height:100%; padding:20px 20px;
+        display:flex; flex-direction:column; justify-content:space-between; gap:14px;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  <rect width="420" height="475" rx="18" fill="#08080a" stroke="rgba(255,255,255,0.12)" stroke-width="1.2"/>
+  <foreignObject x="0" y="0" width="420" height="475">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      
+      <div class="mcs-wrap">
+        <div>
+          <div style="font-size:10.5px; font-weight:600; color:#2997ff; letter-spacing:0.3px;">BROWSER-NATIVE AI</div>
+          <div style="font-size:19px; font-weight:700; color:#f5f5f7; letter-spacing:-0.4px; margin-top:4px; line-height:1.2;">Lokul — Zero-Server WebGPU AI Assistant</div>
+          <div style="font-size:12.5px; color:#86868b; line-height:1.5; margin-top:8px;">Privacy-first AI assistant that executes large language models entirely inside the browser via WebGPU and Transformers.js. Zero servers, zero API keys, and zero user data ever leaving the device, wit…</div>
+          <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:12px;"><span style="font-size:10.5px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.07); padding:4px 10px; border-radius:999px;">Next.js</span><span style="font-size:10.5px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.07); padding:4px 10px; border-radius:999px;">WebGPU</span><span style="font-size:10.5px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.07); padding:4px 10px; border-radius:999px;">WebLLM</span><span style="font-size:10.5px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.07); padding:4px 10px; border-radius:999px;">Transformers.js</span><span style="font-size:10.5px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.07); padding:4px 10px; border-radius:999px;">Service Workers</span></div>
+        </div>
+        <div style="height:210px;">
+          
+    <div style="width:100%; height:100%; background:radial-gradient(120% 100% at 50% 0%, #1c2230 0%, #11131a 100%); border:1px solid rgba(255,255,255,0.16); border-radius:16px; padding:18px 20px; display:flex; flex-direction:column; justify-content:space-between; box-shadow:inset 0 1px 0 rgba(255,255,255,0.2);">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <div style="display:flex; align-items:center; gap:7px;">
+          <span style="width:6px; height:6px; border-radius:50%; background:#2997ff; box-shadow:0 0 8px #2997ff;"></span>
+          <span style="font-size:11px; font-weight:600; color:#e2e8f0; letter-spacing:0.3px;">CLIENT-SIDE INFERENCE</span>
+        </div>
+        <span style="font-size:11px; font-weight:600; color:#60a5fa; background:rgba(41,151,255,0.14); border:1px solid rgba(41,151,255,0.3); padding:2px 9px; border-radius:999px;">100% Client-Side</span>
+      </div>
+
+      <svg viewBox="0 0 340 96" width="100%" height="96">
+        <defs>
+          <linearGradient id="appleCardGrad_lokul" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#262b38"/>
+            <stop offset="100%" stop-color="#1a1e29"/>
+          </linearGradient>
+        </defs>
+        <line x1="92" y1="48" x2="124" y2="48" stroke="#60a5fa" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="3 3"/>
+        <line x1="216" y1="48" x2="248" y2="48" stroke="#60a5fa" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="3 3"/>
+        <circle cx="108" cy="48" r="3" fill="#60a5fa">
+          <animate attributeName="cx" values="95;121;95" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="232" cy="48" r="3" fill="#60a5fa">
+          <animate attributeName="cx" values="219;245;219" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+
+        <rect x="4" y="18" width="88" height="60" rx="12" fill="url(#appleCardGrad_lokul)" stroke="rgba(255,255,255,0.22)" stroke-width="1.2"/>
+        <text x="48" y="45" fill="#ffffff" font-size="11" font-weight="700" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Browser UI</text>
+        <text x="48" y="61" fill="#cbd5e1" font-size="9" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Next.js PWA</text>
+
+        <rect x="124" y="12" width="92" height="72" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.85" stroke-width="1.5"/>
+        <text x="170" y="45" fill="#ffffff" font-size="11.5" font-weight="700" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">WebGPU LLM</text>
+        <text x="170" y="62" fill="#38bdf8" font-size="9.5" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Local Inference</text>
+
+        <rect x="248" y="18" width="88" height="60" rx="12" fill="url(#appleCardGrad_lokul)" stroke="rgba(255,255,255,0.22)" stroke-width="1.2"/>
+        <text x="292" y="45" fill="#ffffff" font-size="11" font-weight="700" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">IndexedDB</text>
+        <text x="292" y="61" fill="#cbd5e1" font-size="9" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Offline Vault</text>
+      </svg>
+
+      <div style="display:flex; justify-content:space-between; align-items:center; border-top:1px solid rgba(255,255,255,0.12); padding-top:9px;">
+        <span style="font-size:11px; color:#cbd5e1;">WebGPU + WebLLM + Service Worker</span>
+        <span style="font-size:11px; color:#ffffff; font-weight:600;">100% Private</span>
+      </div>
+    </div>
+  
+        </div>
+      </div>
+    
+    </div>
+  </foreignObject>
+  
+</svg>

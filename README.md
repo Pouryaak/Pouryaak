@@ -1,27 +1,23 @@
 <!--
   ⚡ COMPILED BY GHPX (GitHub Profile eXperience) v1.0
   Template: cinematic-os
-  Architecture: Zero-JS SVG Vector Shaders + HTML5 <details name="..."> Exclusive State Machines
+  Architecture: Zero-JS SVG Vector Shaders + HTML5 <details name="..."> Exclusive State Machines + Mobile/Desktop Responsive <picture>
 -->
 
 <div align="center">
   <a href="https://pourya.space">
-    <picture>
-      <img src="./assets/hero.svg?v=fe10d189" width="100%" alt="Pourya Akrami — Senior Frontend Architect &amp; Browser-Native AI Engineer">
-    </picture>
+    <picture><source media="(max-width: 640px)" srcset="./assets/hero-mobile.svg?v=f3ceefe7"><img src="./assets/hero.svg?v=fe10d189" width="100%" alt="Pourya Akrami — Senior Frontend Architect &amp; Browser-Native AI Engineer"></picture>
   </a>
 </div>
 
 <br>
 
-<picture>
-  <img src="./assets/section-deck.svg?v=0b000935" width="100%" alt="Selected Works">
-</picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/section-deck-mobile.svg?v=38a8b3b3"><img src="./assets/section-deck.svg?v=0b000935" width="100%" alt="Selected Works"></picture>
 
 <details name="ghpx-deck" open>
-<summary><picture><img src="./assets/card-wobnimo-trigger.svg?v=624903c4" width="96%" align="middle" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents"></picture></summary>
+<summary><picture><source media="(max-width: 640px)" srcset="./assets/card-wobnimo-trigger-mobile.svg?v=1c2f7d38"><img src="./assets/card-wobnimo-trigger.svg?v=624903c4" width="95%" align="middle" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents"></picture></summary>
 <br>
-<picture><img src="./assets/card-wobnimo-stage.svg?v=9f854821" width="100%" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents Stage"></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/card-wobnimo-stage-mobile.svg?v=bc3ea5e2"><img src="./assets/card-wobnimo-stage.svg?v=9f854821" width="100%" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents Stage"></picture>
 <div align="center">
   <a href="https://pouryaak.github.io/wobnimo/"><picture><img src="./assets/btn-wobnimo-0.svg?v=e57c2f02" height="36" alt="Live Playground"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Pouryaak/wobnimo"><picture><img src="./assets/btn-wobnimo-1.svg?v=df83e6d4" height="36" alt="GitHub Repository"></picture></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/package/wobnimo"><picture><img src="./assets/btn-wobnimo-2.svg?v=438c4774" height="36" alt="NPM Package"></picture></a>
 </div>
@@ -29,9 +25,9 @@
 </details>
 
 <details name="ghpx-deck">
-<summary><picture><img src="./assets/card-lokul-trigger.svg?v=eabd4fec" width="96%" align="middle" alt="Lokul — Zero-Server WebGPU AI Assistant"></picture></summary>
+<summary><picture><source media="(max-width: 640px)" srcset="./assets/card-lokul-trigger-mobile.svg?v=2bdc2f80"><img src="./assets/card-lokul-trigger.svg?v=eabd4fec" width="95%" align="middle" alt="Lokul — Zero-Server WebGPU AI Assistant"></picture></summary>
 <br>
-<picture><img src="./assets/card-lokul-stage.svg?v=c58c195a" width="100%" alt="Lokul — Zero-Server WebGPU AI Assistant Stage"></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/card-lokul-stage-mobile.svg?v=173f069e"><img src="./assets/card-lokul-stage.svg?v=c58c195a" width="100%" alt="Lokul — Zero-Server WebGPU AI Assistant Stage"></picture>
 <div align="center">
   <a href="https://github.com/Pouryaak/lokul"><picture><img src="./assets/btn-lokul-0.svg?v=04caff68" height="36" alt="GitHub Repository"></picture></a>&nbsp;&nbsp;<a href="https://pourya.space"><picture><img src="./assets/btn-lokul-1.svg?v=8354ec8b" height="36" alt="Portfolio Case Study"></picture></a>
 </div>
@@ -39,9 +35,9 @@
 </details>
 
 <details name="ghpx-deck">
-<summary><picture><img src="./assets/card-lokulmem-trigger.svg?v=0f17ea12" width="96%" align="middle" alt="LokulMem — Persistent Memory Layer for Web AI"></picture></summary>
+<summary><picture><source media="(max-width: 640px)" srcset="./assets/card-lokulmem-trigger-mobile.svg?v=90dd9b82"><img src="./assets/card-lokulmem-trigger.svg?v=0f17ea12" width="95%" align="middle" alt="LokulMem — Persistent Memory Layer for Web AI"></picture></summary>
 <br>
-<picture><img src="./assets/card-lokulmem-stage.svg?v=e58155ca" width="100%" alt="LokulMem — Persistent Memory Layer for Web AI Stage"></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/card-lokulmem-stage-mobile.svg?v=b64f0a90"><img src="./assets/card-lokulmem-stage.svg?v=e58155ca" width="100%" alt="LokulMem — Persistent Memory Layer for Web AI Stage"></picture>
 <div align="center">
   <a href="https://pouryaak.github.io/LokulMem/"><picture><img src="./assets/btn-lokulmem-0.svg?v=ddb4a1a3" height="36" alt="Documentation Site"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Pouryaak/LokulMem"><picture><img src="./assets/btn-lokulmem-1.svg?v=df83e6d4" height="36" alt="GitHub Repository"></picture></a>
 </div>
@@ -50,40 +46,32 @@
 
 <br>
 
-<picture>
-  <img src="./assets/section-bento.svg?v=baad598b" width="100%" alt="Capabilities &amp; Architecture">
-</picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/section-bento-mobile.svg?v=fecddcb4"><img src="./assets/section-bento.svg?v=baad598b" width="100%" alt="Capabilities &amp; Architecture"></picture>
 
-<picture>
-  <img src="./assets/bento-telemetry.svg?v=85533cf0" width="100%" alt="Capabilities & Architecture">
-</picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/bento-telemetry-mobile.svg?v=f884cc1f"><img src="./assets/bento-telemetry.svg?v=85533cf0" width="100%" alt="Capabilities &amp; Architecture"></picture>
 
 <br><br>
 
-<picture>
-  <img src="./assets/section-experience.svg?v=cf2f683b" width="100%" alt="Experience &amp; Leadership">
-</picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/section-experience-mobile.svg?v=b2777f9f"><img src="./assets/section-experience.svg?v=cf2f683b" width="100%" alt="Experience &amp; Leadership"></picture>
 
 <details name="ghpx-career" open>
-<summary><picture><img src="./assets/exp-tab-timeline-trigger.svg?v=9506dc67" width="96%" align="middle" alt="Career Track Record"></picture></summary>
+<summary><picture><source media="(max-width: 640px)" srcset="./assets/exp-tab-timeline-trigger-mobile.svg?v=bd799698"><img src="./assets/exp-tab-timeline-trigger.svg?v=9506dc67" width="95%" align="middle" alt="Career Track Record"></picture></summary>
 <br>
-<picture><img src="./assets/exp-tab-timeline-stage.svg?v=84456b65" width="100%" alt="Career Timeline"></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/exp-tab-timeline-stage-mobile.svg?v=878400ae"><img src="./assets/exp-tab-timeline-stage.svg?v=84456b65" width="100%" alt="Career Timeline"></picture>
 <br>
 </details>
 
 <details name="ghpx-career">
-<summary><picture><img src="./assets/exp-tab-philosophy-trigger.svg?v=6f782893" width="96%" align="middle" alt="Open Source & Engineering Principles"></picture></summary>
+<summary><picture><source media="(max-width: 640px)" srcset="./assets/exp-tab-philosophy-trigger-mobile.svg?v=bd4f6f42"><img src="./assets/exp-tab-philosophy-trigger.svg?v=6f782893" width="95%" align="middle" alt="Open Source &amp; Engineering Principles"></picture></summary>
 <br>
-<picture><img src="./assets/exp-tab-philosophy-stage.svg?v=329bd159" width="100%" alt="Engineering Principles"></picture>
+<picture><source media="(max-width: 640px)" srcset="./assets/exp-tab-philosophy-stage-mobile.svg?v=b192c776"><img src="./assets/exp-tab-philosophy-stage.svg?v=329bd159" width="100%" alt="Engineering Principles"></picture>
 <br>
 </details>
 
 <br>
 
 <a href="https://pourya.space">
-  <picture>
-    <img src="./assets/connect-banner.svg?v=dcb9acfd" width="100%" alt="Let&#39;s Build Something Extraordinary.">
-  </picture>
+  <picture><source media="(max-width: 640px)" srcset="./assets/connect-banner-mobile.svg?v=89ead09e"><img src="./assets/connect-banner.svg?v=dcb9acfd" width="100%" alt="Let&#39;s Build Something Extraordinary."></picture>
 </a>
 
 <div align="center">

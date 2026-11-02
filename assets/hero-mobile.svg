@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 395" width="100%" height="395" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 420px;
+        height: 395px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .mh-wrap {
+        width:100%; height:100%; padding:24px 22px;
+        display:flex; flex-direction:column; justify-content:space-between;
+        text-align:center;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  
+      <rect width="420" height="395" rx="20" fill="#060608" stroke="rgba(255,255,255,0.12)" stroke-width="1.2"/>
+    
+  <foreignObject x="0" y="0" width="420" height="395">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      
+      <div class="mh-wrap">
+        <div>
+          <div style="display:inline-flex; align-items:center; gap:7px; padding:5px 12px; border-radius:999px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); font-size:10.5px; font-weight:600; color:#86868b;">
+            <span style="width:6px; height:6px; border-radius:50%; background:#2997ff;"></span>
+            <span>Copenhagen, Denmark  ·  pourya.space</span>
+          </div>
+          <div style="font-size:38px; font-weight:700; color:#f5f5f7; letter-spacing:-1.4px; line-height:1.05; margin-top:14px;">
+            Pourya Akrami
+          </div>
+          <div style="font-size:14.5px; color:#86868b; line-height:1.45; margin-top:8px;">
+            Senior Frontend Architect &amp; Browser-Native AI Engineer
+          </div>
+        </div>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:14px;">
+          
+      <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); border-radius:12px; padding:12px 14px; text-align:center;">
+        <div style="font-size:22px; font-weight:700; color:#f5f5f7; letter-spacing:-0.6px;">8+ Years</div>
+        <div style="font-size:11px; color:#86868b; margin-top:3px;">Frontend Architecture</div>
+      </div>
+      <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); border-radius:12px; padding:12px 14px; text-align:center;">
+        <div style="font-size:22px; font-weight:700; color:#f5f5f7; letter-spacing:-0.6px;">60 fps</div>
+        <div style="font-size:11px; color:#86868b; margin-top:3px;">Real-Time 3D &amp; Canvas</div>
+      </div>
+      <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); border-radius:12px; padding:12px 14px; text-align:center;">
+        <div style="font-size:22px; font-weight:700; color:#f5f5f7; letter-spacing:-0.6px;">0-Server</div>
+        <div style="font-size:11px; color:#86868b; margin-top:3px;">Browser-Native AI</div>
+      </div>
+      <div style="background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); border-radius:12px; padding:12px 14px; text-align:center;">
+        <div style="font-size:22px; font-weight:700; color:#f5f5f7; letter-spacing:-0.6px;">+30%</div>
+        <div style="font-size:11px; color:#86868b; margin-top:3px;">Agent Team Velocity</div>
+      </div>
+        </div>
+      </div>
+    
+    </div>
+  </foreignObject>
+  
+</svg>

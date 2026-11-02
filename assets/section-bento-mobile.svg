@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 74" width="100%" height="74" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 420px;
+        height: 74px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .ms-wrap {
+        width:100%; height:100%; padding:10px 4px;
+        display:flex; flex-direction:column; justify-content:end;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  <rect width="420" height="74" fill="transparent"/>
+  <foreignObject x="0" y="0" width="420" height="74">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      
+      <div class="ms-wrap">
+        <div style="font-size:21px; font-weight:700; color:#f5f5f7; letter-spacing:-0.5px;">
+          <span style="color:#2997ff; font-size:13px; margin-right:6px;">02</span>Capabilities &amp; Architecture
+        </div>
+        <div style="font-size:12px; color:#86868b; margin-top:3px;">Core engineering domains, systems &amp; production stack</div>
+      </div>
+    
+    </div>
+  </foreignObject>
+  
+</svg>

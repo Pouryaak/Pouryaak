@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 470" width="100%" height="470" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 420px;
+        height: 470px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .mct-list {
+        width:100%; height:100%;
+        display:flex; flex-direction:column; justify-content:space-between; gap:8px;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  <rect width="420" height="470" fill="transparent"/>
+  <foreignObject x="0" y="0" width="420" height="470">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      <div class="mct-list">
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:12px 16px;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <span style="font-size:15px; font-weight:700; color:#f5f5f7;">Visma (Intempus)</span>
+          <span style="font-size:11px; font-weight:600; color:#2997ff;">2026 — Present</span>
+        </div>
+        <div style="font-size:12px; color:#86868b; margin-top:2px;">Senior Software Engineer · Copenhagen</div>
+        <div style="font-size:11.5px; color:#cbd5e1; line-height:1.45; margin-top:6px;">Leading V3 React &amp; TypeScript architecture migration and a 10-agent AI pipeline (+30% team delivery velocity).</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:12px 16px;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <span style="font-size:15px; font-weight:700; color:#f5f5f7;">GAN Integrity</span>
+          <span style="font-size:11px; font-weight:600; color:#2997ff;">2023 — 2026</span>
+        </div>
+        <div style="font-size:12px; color:#86868b; margin-top:2px;">Senior Frontend Developer · Copenhagen</div>
+        <div style="font-size:11.5px; color:#cbd5e1; line-height:1.45; margin-top:6px;">Architected a 20+ Radix UI WCAG AA design system across 4 teams; improved load performance by 35%.</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:12px 16px;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <span style="font-size:15px; font-weight:700; color:#f5f5f7;">Trackman</span>
+          <span style="font-size:11px; font-weight:600; color:#2997ff;">2022 — 2023</span>
+        </div>
+        <div style="font-size:12px; color:#86868b; margin-top:2px;">Software Engineer · Copenhagen</div>
+        <div style="font-size:11.5px; color:#cbd5e1; line-height:1.45; margin-top:6px;">Engineered real-time 3D radar analytics on Three.js &amp; Canvas at sustained 60 FPS with sub-100ms latency.</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:12px 16px;">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <span style="font-size:15px; font-weight:700; color:#f5f5f7;">Merkle (Airbus)</span>
+          <span style="font-size:11px; font-weight:600; color:#2997ff;">2023</span>
+        </div>
+        <div style="font-size:12px; color:#86868b; margin-top:2px;">Web Stack Engineer · Copenhagen</div>
+        <div style="font-size:11.5px; color:#cbd5e1; line-height:1.45; margin-top:6px;">Delivered end-to-end features and component library architecture for the Airbus eCommerce platform.</div>
+      </div></div>
+    </div>
+  </foreignObject>
+  
+</svg>

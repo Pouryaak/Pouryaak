@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 460" width="100%" height="460" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 420px;
+        height: 460px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .mb-wrap {
+        width:100%; height:100%;
+        display:flex; flex-direction:column; justify-content:space-between; gap:10px;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  <rect width="420" height="460" fill="transparent"/>
+  <foreignObject x="0" y="0" width="420" height="460">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      <div class="mb-wrap">
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:14px 16px;">
+        <div style="font-size:14.5px; font-weight:700; color:#f5f5f7;">Frontend Architecture</div>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">React 19</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Next.js 16</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">TypeScript</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Angular</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Vue.js</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">TanStack Query</span>
+        </div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:14px 16px;">
+        <div style="font-size:14.5px; font-weight:700; color:#f5f5f7;">AI &amp; Local LLMs</div>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">WebGPU / WebLLM</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Transformers.js</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">AI Agents</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Vector RAG</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Vercel AI SDK</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">LLM Memory</span>
+        </div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:14px 16px;">
+        <div style="font-size:14.5px; font-weight:700; color:#f5f5f7;">Design Systems &amp; 3D</div>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Radix UI</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Tailwind CSS v4</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Design Tokens</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Three.js</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">HTML5 Canvas</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">WCAG 2.1 AA</span>
+        </div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.1); border-radius:14px; padding:14px 16px;">
+        <div style="font-size:14.5px; font-weight:700; color:#f5f5f7;">Quality &amp; Infrastructure</div>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:8px;">
+          <span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Vitest</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Playwright</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Cypress</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Node.js</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">Supabase</span><span style="font-size:11px; font-weight:500; color:#86868b; background:rgba(255,255,255,0.06); padding:3px 10px; border-radius:999px;">GitHub Actions</span>
+        </div>
+      </div></div>
+    </div>
+  </foreignObject>
+  
+</svg>
