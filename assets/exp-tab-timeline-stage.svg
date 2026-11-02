@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="100%" height="240" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 880px;
+        height: 240px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .tl-dark { width:100%; height:100%; display:grid; grid-template-columns:repeat(4, 1fr); gap:12px; }
+    
+    ]]></style>
+    
+  </defs>
+  <rect width="880" height="240" fill="transparent"/>
+  <foreignObject x="0" y="0" width="880" height="240">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      <div class="tl-dark">
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px; display:flex; flex-direction:column; justify-content:space-between;">
+        <div>
+          <div style="font-size:11px; font-weight:600; color:#2997ff;">2026 — Present</div>
+          <div style="font-size:16px; font-weight:700; color:#f5f5f7; margin-top:5px;">Visma (Intempus)</div>
+          <div style="font-size:12px; color:#86868b; margin-top:2px;">Senior Software Engineer</div>
+          <div style="font-size:11.5px; color:#a1a1aa; line-height:1.5; margin-top:10px;">Leading V3 React &amp; TypeScript architecture migration and a 10-agent AI pipeline (+30% team delivery velocity).</div>
+        </div>
+        <div style="font-size:10.5px; color:#64748b;">Copenhagen</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px; display:flex; flex-direction:column; justify-content:space-between;">
+        <div>
+          <div style="font-size:11px; font-weight:600; color:#2997ff;">2023 — 2026</div>
+          <div style="font-size:16px; font-weight:700; color:#f5f5f7; margin-top:5px;">GAN Integrity</div>
+          <div style="font-size:12px; color:#86868b; margin-top:2px;">Senior Frontend Developer</div>
+          <div style="font-size:11.5px; color:#a1a1aa; line-height:1.5; margin-top:10px;">Architected a 20+ Radix UI WCAG AA design system across 4 teams; improved load performance by 35%.</div>
+        </div>
+        <div style="font-size:10.5px; color:#64748b;">Copenhagen</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px; display:flex; flex-direction:column; justify-content:space-between;">
+        <div>
+          <div style="font-size:11px; font-weight:600; color:#2997ff;">2022 — 2023</div>
+          <div style="font-size:16px; font-weight:700; color:#f5f5f7; margin-top:5px;">Trackman</div>
+          <div style="font-size:12px; color:#86868b; margin-top:2px;">Software Engineer</div>
+          <div style="font-size:11.5px; color:#a1a1aa; line-height:1.5; margin-top:10px;">Engineered real-time 3D radar analytics on Three.js &amp; Canvas at sustained 60 FPS with sub-100ms latency.</div>
+        </div>
+        <div style="font-size:10.5px; color:#64748b;">Copenhagen</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px; display:flex; flex-direction:column; justify-content:space-between;">
+        <div>
+          <div style="font-size:11px; font-weight:600; color:#2997ff;">2023</div>
+          <div style="font-size:16px; font-weight:700; color:#f5f5f7; margin-top:5px;">Merkle (Airbus)</div>
+          <div style="font-size:12px; color:#86868b; margin-top:2px;">Web Stack Engineer</div>
+          <div style="font-size:11.5px; color:#a1a1aa; line-height:1.5; margin-top:10px;">Delivered end-to-end features and component library architecture for the Airbus eCommerce platform.</div>
+        </div>
+        <div style="font-size:10.5px; color:#64748b;">Copenhagen</div>
+      </div></div>
+    </div>
+  </foreignObject>
+  
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 120" width="100%" height="120" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 880px;
+        height: 120px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .cn-dark {
+        width:100%; height:100%; padding:0 34px;
+        display:flex; justify-content:space-between; align-items:center;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  
+      <rect width="880" height="120" rx="20" fill="#08080a" stroke="rgba(255,255,255,0.1)" stroke-width="1.2"/>
+    
+  <foreignObject x="0" y="0" width="880" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      
+      <div class="cn-dark">
+        <div>
+          <div style="font-size:23px; font-weight:700; color:#f5f5f7; letter-spacing:-0.5px;">Let&#39;s Build Something Extraordinary.</div>
+          <div style="font-size:12.5px; color:#86868b; margin-top:4px;">Based in Copenhagen, Denmark  ·  Available for Senior / Staff Frontend &amp; AI Architecture</div>
+        </div>
+        <div style="font-size:13px; font-weight:600; color:#2997ff; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.1); padding:9px 18px; border-radius:999px;">
+          pourya.space ›
+        </div>
+      </div>
+    
+    </div>
+  </foreignObject>
+  
+</svg>

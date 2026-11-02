@@ -1,74 +1,91 @@
-<h1 align="center">Hi 👋, I'm Pourya</h1>
-<h3 align="center">Senior Frontend Engineer | Building AI-powered tools & scalable web apps</h3>
+<!--
+  ⚡ COMPILED BY GHPX (GitHub Profile eXperience) v1.0
+  Template: cinematic-os
+  Architecture: Zero-JS SVG Vector Shaders + HTML5 <details name="..."> Exclusive State Machines
+-->
 
----
+<div align="center">
+  <a href="https://pourya.space">
+    <picture>
+      <img src="./assets/hero.svg" width="100%" alt="Pourya Akrami — Senior Frontend Architect &amp; Browser-Native AI Engineer">
+    </picture>
+  </a>
+</div>
 
-### 🚀 About Me
-- 🌏 Based in Copenhagen
-- 💻 Senior Frontend Engineer with 8+ years experience across React, Next.js, TypeScript
-- 🤖 Building AI-powered developer tools and exploring the intersection of AI + UX
-- 🛠 Currently contributing to open source AI projects (Dyad, Bolt.diy)
-- 🚀 Side projects: Lokul, LokulMem, and more in progress
-- 📚 Learning: AI agents, local LLMs, and how to ship faster with AI-assisted development
+<br>
 
----
+<picture>
+  <img src="./assets/section-deck.svg" width="100%" alt="Selected Works">
+</picture>
 
-### 🛠 Tech Stack
+<details name="ghpx-deck" open>
+<summary><picture><img src="./assets/card-wobnimo-trigger.svg" width="96%" align="middle" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents"></picture></summary>
+<br>
+<picture><img src="./assets/card-wobnimo-stage.svg" width="100%" alt="Wobnimo — Living 3D Mascots for Apps &amp; Agents Stage"></picture>
+<div align="center">
+  <a href="https://pouryaak.github.io/wobnimo/"><picture><img src="./assets/btn-wobnimo-0.svg" height="36" alt="Live Playground"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Pouryaak/wobnimo"><picture><img src="./assets/btn-wobnimo-1.svg" height="36" alt="GitHub Repository"></picture></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/package/wobnimo"><picture><img src="./assets/btn-wobnimo-2.svg" height="36" alt="NPM Package"></picture></a>
+</div>
+<br>
+</details>
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+<details name="ghpx-deck">
+<summary><picture><img src="./assets/card-lokul-trigger.svg" width="96%" align="middle" alt="Lokul — Zero-Server WebGPU AI Assistant"></picture></summary>
+<br>
+<picture><img src="./assets/card-lokul-stage.svg" width="100%" alt="Lokul — Zero-Server WebGPU AI Assistant Stage"></picture>
+<div align="center">
+  <a href="https://github.com/Pouryaak/lokul"><picture><img src="./assets/btn-lokul-0.svg" height="36" alt="GitHub Repository"></picture></a>&nbsp;&nbsp;<a href="https://pourya.space"><picture><img src="./assets/btn-lokul-1.svg" height="36" alt="Portfolio Case Study"></picture></a>
+</div>
+<br>
+</details>
 
-**Tools & Platforms**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+<details name="ghpx-deck">
+<summary><picture><img src="./assets/card-lokulmem-trigger.svg" width="96%" align="middle" alt="LokulMem — Persistent Memory Layer for Web AI"></picture></summary>
+<br>
+<picture><img src="./assets/card-lokulmem-stage.svg" width="100%" alt="LokulMem — Persistent Memory Layer for Web AI Stage"></picture>
+<div align="center">
+  <a href="https://pouryaak.github.io/LokulMem/"><picture><img src="./assets/btn-lokulmem-0.svg" height="36" alt="Documentation Site"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Pouryaak/LokulMem"><picture><img src="./assets/btn-lokulmem-1.svg" height="36" alt="GitHub Repository"></picture></a>
+</div>
+<br>
+</details>
 
-**AI & Local LLMs**
-![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![WebLLM](https://img.shields.io/badge/-WebLLM-000000?logo=webgpu&logoColor=white)
-![Transformers.js](https://img.shields.io/badge/-Transformers.js-FF6F00?logo=tensorflow&logoColor=white)
+<br>
 
----
+<picture>
+  <img src="./assets/section-bento.svg" width="100%" alt="Capabilities &amp; Architecture">
+</picture>
 
-### 🌟 Featured Projects
+<picture>
+  <img src="./assets/bento-telemetry.svg" width="100%" alt="Capabilities & Architecture">
+</picture>
 
-🔹 [Quokka UI](https://pouryaak.github.io/quokka-ui/?path=/docs/introduction-welcome--docs) – Design System / OSS Library  
-Token-driven UI components with SSR-friendly theming, a11y-first, and clean APIs.
+<br><br>
 
-🔹 [Lokul](https://github.com/Pouryaak/lokul) – Web-Based Private AI  
-Run AI models entirely in your browser using WebLLM & Transformers.js. No server, no data leaving your device. Privacy-first AI.
+<picture>
+  <img src="./assets/section-experience.svg" width="100%" alt="Experience &amp; Leadership">
+</picture>
 
-🔹 [LokulMem](https://github.com/Pouryaak/lokulmem) – Persistent Memory for Web AI  
-A library for managing long-term memory in browser-based AI apps. Built on WebGPU. Give any web AI app the ability to remember across sessions.
+<details name="ghpx-career" open>
+<summary><picture><img src="./assets/exp-tab-timeline-trigger.svg" width="96%" align="middle" alt="Career Track Record"></picture></summary>
+<br>
+<picture><img src="./assets/exp-tab-timeline-stage.svg" width="100%" alt="Career Timeline"></picture>
+<br>
+</details>
 
----
+<details name="ghpx-career">
+<summary><picture><img src="./assets/exp-tab-philosophy-trigger.svg" width="96%" align="middle" alt="Open Source & Engineering Principles"></picture></summary>
+<br>
+<picture><img src="./assets/exp-tab-philosophy-stage.svg" width="100%" alt="Engineering Principles"></picture>
+<br>
+</details>
 
-### 🤝 Open Source Contributions
+<br>
 
-🔹 [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) – AI App Builder  
-Contributed bug fixes and UX improvements to the open-source AI app builder ecosystem.
+<a href="https://pourya.space">
+  <picture>
+    <img src="./assets/connect-banner.svg" width="100%" alt="Let&#39;s Build Something Extraordinary.">
+  </picture>
+</a>
 
-🔹 [Dyad](https://github.com/dyad-sh/dyad) – Local AI App Builder  
-Contributing UI improvements and bug fixes.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pouryaak&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouryaak&theme=radical" alt="streak" width="48%"/>
-</p>
-
----
-
-### 📫 Connect with me
-- 🌐 Portfolio: [pourya.space](https://pourya.space)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pourya-akrami-nayeri-4230ba10b/)  
-
----
-⭐️ From [Pouryaak](https://github.com/Pouryaak)
+<div align="center">
+  <a href="https://pourya.space"><picture><img src="./assets/connect-btn-0.svg" height="36" alt="Portfolio (pourya.space)"></picture></a>&nbsp;&nbsp;<a href="https://pouryaak.github.io/wobnimo/"><picture><img src="./assets/connect-btn-1.svg" height="36" alt="Wobnimo Playground"></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pourya-akraminayeri-4230ba10b/"><picture><img src="./assets/connect-btn-2.svg" height="36" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:pourya.akramina@gmail.com"><picture><img src="./assets/connect-btn-3.svg" height="36" alt="Email"></picture></a>
+</div>

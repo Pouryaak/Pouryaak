@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="100%" height="240" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 880px;
+        height: 240px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      
+      .st-cup {
+        width: 100%; height: 100%; padding: 26px 30px;
+        display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 28px;
+      }
+    
+    ]]></style>
+    
+  </defs>
+  
+      <rect width="880" height="240" rx="20" fill="#08080a" stroke="rgba(255,255,255,0.1)" stroke-width="1.2"/>
+    
+  <foreignObject x="0" y="0" width="880" height="240">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      
+      <div class="st-cup">
+        <div style="display:flex; flex-direction:column; justify-content:space-between;">
+          <div>
+            <div style="font-size:11px; font-weight:600; color:#2997ff; letter-spacing:0.3px;">
+              BROWSER-NATIVE AI
+            </div>
+            <div style="font-size:23px; font-weight:700; color:#f5f5f7; letter-spacing:-0.6px; margin-top:5px;">
+              Lokul — Zero-Server WebGPU AI Assistant
+            </div>
+            <div style="font-size:13.5px; color:#86868b; line-height:1.56; margin-top:10px;">
+              Privacy-first AI assistant that executes large language models entirely inside the browser via WebGPU and Transformers.js. Zero servers, zero API keys, and zero user data ever leaving the device, with Service Worke…
+            </div>
+          </div>
+          <div style="display:flex; flex-wrap:wrap; gap:7px; padding-top:12px; border-top:1px solid rgba(255,255,255,0.07);">
+            <span style="font-size:11px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.06); padding:4px 12px; border-radius:999px;">Next.js</span><span style="font-size:11px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.06); padding:4px 12px; border-radius:999px;">WebGPU</span><span style="font-size:11px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.06); padding:4px 12px; border-radius:999px;">WebLLM</span><span style="font-size:11px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.06); padding:4px 12px; border-radius:999px;">Transformers.js</span><span style="font-size:11px; font-weight:500; color:#f5f5f7; background:rgba(255,255,255,0.06); padding:4px 12px; border-radius:999px;">Service Workers</span>
+          </div>
+        </div>
+        <div>
+          
+    <div style="width:100%; height:100%; background:linear-gradient(180deg, #111114 0%, #09090b 100%); border:1px solid rgba(255,255,255,0.09); border-radius:16px; padding:20px 22px; display:flex; flex-direction:column; justify-content:space-between; box-shadow:inset 0 1px 0 rgba(255,255,255,0.12);">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <span style="font-size:11px; font-weight:600; color:#86868b; letter-spacing:0.2px;">Architecture</span>
+        <span style="font-size:11px; font-weight:600; color:#2997ff;">100% Client-Side</span>
+      </div>
+
+      <svg viewBox="0 0 340 96" width="100%" height="96">
+        <defs>
+          <linearGradient id="appleCardGrad_lokul" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#1d1d22"/>
+            <stop offset="100%" stop-color="#121215"/>
+          </linearGradient>
+        </defs>
+        <line x1="92" y1="48" x2="124" y2="48" stroke="rgba(255,255,255,0.18)" stroke-width="1.2"/>
+        <line x1="216" y1="48" x2="248" y2="48" stroke="rgba(255,255,255,0.18)" stroke-width="1.2"/>
+
+        <rect x="4" y="18" width="88" height="60" rx="12" fill="url(#appleCardGrad_lokul)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+        <text x="48" y="45" fill="#f5f5f7" font-size="11" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Browser UI</text>
+        <text x="48" y="61" fill="#86868b" font-size="9" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Next.js PWA</text>
+
+        <rect x="124" y="12" width="92" height="72" rx="14" fill="#18181d" stroke="#2997ff" stroke-opacity="0.55" stroke-width="1.2"/>
+        <text x="170" y="45" fill="#ffffff" font-size="11.5" font-weight="700" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">WebGPU LLM</text>
+        <text x="170" y="62" fill="#2997ff" font-size="9" font-weight="500" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Local Inference</text>
+
+        <rect x="248" y="18" width="88" height="60" rx="12" fill="url(#appleCardGrad_lokul)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+        <text x="292" y="45" fill="#f5f5f7" font-size="11" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">IndexedDB</text>
+        <text x="292" y="61" fill="#86868b" font-size="9" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif">Offline Vault</text>
+      </svg>
+
+      <div style="display:flex; justify-content:space-between; align-items:center; border-top:1px solid rgba(255,255,255,0.06); padding-top:10px;">
+        <span style="font-size:11px; color:#86868b;">WebGPU + WebLLM</span>
+        <span style="font-size:11px; color:#f5f5f7; font-weight:500;">Offline PWA</span>
+      </div>
+    </div>
+  
+        </div>
+      </div>
+    
+    </div>
+  </foreignObject>
+  
+</svg>

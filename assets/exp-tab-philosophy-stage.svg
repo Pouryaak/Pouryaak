@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" width="100%" height="190" fill="none">
+  <defs>
+    <style type="text/css"><![CDATA[
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ghpx-root {
+        width: 880px;
+        height: 190px;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        overflow: hidden;
+        position: relative;
+      }
+      .mono {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace;
+      }
+      .ph-dark { width:100%; height:100%; display:grid; grid-template-columns:repeat(3, 1fr); gap:12px; }
+    ]]></style>
+    
+  </defs>
+  <rect width="880" height="190" fill="transparent"/>
+  <foreignObject x="0" y="0" width="880" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="ghpx-root">
+      <div class="ph-dark">
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px;">
+        <div style="font-size:10.5px; font-weight:600; color:#2997ff;">OPEN SOURCE</div>
+        <div style="font-size:15.5px; font-weight:700; color:#f5f5f7; margin-top:7px;">Contributor to Bolt.diy &amp; Dyad</div>
+        <div style="font-size:12px; color:#86868b; line-height:1.55; margin-top:8px;">Shipping UX improvements and architectural fixes to leading open-source AI app builders.</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px;">
+        <div style="font-size:10.5px; font-weight:600; color:#2997ff;">MENTORSHIP</div>
+        <div style="font-size:15.5px; font-weight:700; color:#f5f5f7; margin-top:7px;">Instructor @ HackYourFuture Denmark</div>
+        <div style="font-size:12px; color:#86868b; line-height:1.55; margin-top:8px;">Taught JavaScript and React for 2 years to help underserved talent transition into engineering careers.</div>
+      </div>
+      <div style="background:#0d0d10; border:1px solid rgba(255,255,255,0.08); border-radius:18px; padding:20px;">
+        <div style="font-size:10.5px; font-weight:600; color:#2997ff;">ARCHITECTURE</div>
+        <div style="font-size:15.5px; font-weight:700; color:#f5f5f7; margin-top:7px;">Anthropic AI Fluency &amp; AWS Certified</div>
+        <div style="font-size:12px; color:#86868b; line-height:1.55; margin-top:8px;">Combining cloud architecture with client-side WebGPU AI and WCAG 2.1 AA accessibility standards.</div>
+      </div></div>
+    </div>
+  </foreignObject>
+  
+</svg>
